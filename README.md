@@ -1,1 +1,0 @@
-# crypt-pay By chaitanyapatiiil
